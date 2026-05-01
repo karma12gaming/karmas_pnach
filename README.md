@@ -1,6 +1,6 @@
-# readme
+# Karma's Patch Files
 
-Karma's collection of .pnach files updated to work with PCSX2 v1.7+ and v2.0+.
+Karma's collection of .pnach files updated to work with PCSX2 v1.7+ (and v2.0+).
 
 ## How to Download
 
@@ -32,7 +32,7 @@ Karma's collection of .pnach files updated to work with PCSX2 v1.7+ and v2.0+.
 > [!WARNING]
 > Activating cheats (patches) can cause unpredictable behavior, crashing,
 soft-locks, or broken saved games. Use cheats at your own risk, the PCSX2
-team will provide no support for users who have enabled cheats.**
+team will provide no support for users who have enabled cheats.
 
 ## Files
 
