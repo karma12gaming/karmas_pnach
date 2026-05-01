@@ -1,1 +1,7 @@
-TBA
+gametitle=Ar tonelico II - Melody of Metafalica (SLUS-21788) (C38067F4)
+comment=Pnach by Karma. Tested with Metalbat Undub Patch.
+
+[Money]
+author= Skiller
+description= Max / Infinite
+patch=1,EE,20A036E0,extended,0098967F

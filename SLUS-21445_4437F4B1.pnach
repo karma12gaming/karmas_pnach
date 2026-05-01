@@ -1,1 +1,10 @@
-TBA
+gametitle=Ar tonelico - Melody of Elemia (SLUS-21445) (CRC-4437F4B1)
+comment=Pnach by Karma. Tested with Undub Patch.
+
+// Check Patch Section for Widescreen and No Interlacing
+
+[Money\Infinite Money]
+author= Skiller
+description= Infinite Leaf
+patch=1,EE,20a9196c,extended,0098967f
+
