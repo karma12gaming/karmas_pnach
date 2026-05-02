@@ -36,10 +36,10 @@ the PCSX2 team will provide no support for users who have enabled cheats.
 
 | Serial | CRC | Title | Other | Status |
 | :----: | :----: | :---------------------------------- | :---- | :----: |
-| SLUS-21445 | 4437F4B1 | [Ar tonelico - Melody of Elemia](/cheats/SLUS-21445_4437F4B1.pnach) | + Undub Patch | ⚠️ |
-| SLUS-21788 | C38067F4 | [Ar tonelico II - Melody of Metafalica](/cheats/SLUS-21788_C38067F4.pnach) | + Metalbat Undub Patch | ⚠️ |
+| SLUS-21445 | 4437F4B1 | [Ar tonelico - Melody of Elemia](/cheats/SLUS-21445_4437F4B1.pnach) | + Undub Patch | 🚧 |
+| SLUS-21788 | C38067F4 | [Ar tonelico II - Melody of Metafalica](/cheats/SLUS-21788_C38067F4.pnach) | + Metalbat Undub Patch | 🚧 |
 
-⚠️ Work In Progress ┃ ✅ Finished
+🚧 Work In Progress &nbsp; ✅ Finished
 
 ### Other
 
