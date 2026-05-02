@@ -4,7 +4,7 @@ Karma's collection of .pnach files updated to work with PCSX2 v1.7+ (and v2.0+).
 
 ## How to Download
 
-- Go to the file you want. (Check [Files](#files))
+- Go to the file you want. (Check [.Pnach Files](#pnach-files))
 - Click the `Download Raw File` icon on the right side.
 
 ## How to Install
@@ -34,14 +34,14 @@ Karma's collection of .pnach files updated to work with PCSX2 v1.7+ (and v2.0+).
 soft-locks, or broken saved games. Use cheats at your own risk, the PCSX2
 team will provide no support for users who have enabled cheats.
 
-## Files
+## .Pnach Files
 
 | Serial | CRC | Title | Other |
 | :----: | :----: | :---------------------------------- | :---- |
-| SLUS-21445 | 4437F4B1 | [Ar tonelico - Melody of Elemia](/SLUS-21445_4437F4B1.pnach) | + Undub Patch |
-| SLUS-21788 | C38067F4 | [Ar tonelico II - Melody of Metafalica](/SLUS-21788_C38067F4.pnach) | + Metalbat Undub Patch |
+| SLUS-21445 | 4437F4B1 | [Ar tonelico - Melody of Elemia](/cheats/SLUS-21445_4437F4B1.pnach) | + Undub Patch |
+| SLUS-21788 | C38067F4 | [Ar tonelico II - Melody of Metafalica](/cheats/SLUS-21788_C38067F4.pnach) | + Metalbat Undub Patch |
 
-### Other Info
+### Other
 
-- [Disclaimer](/disclaimer.md)
-- [Antipiracy Statement](/disclaimer.md/#antipiracy-statement)
+[Disclaimer](/disclaimer.md)  
+[Antipiracy Statement](/disclaimer.md/#antipiracy-statement)
