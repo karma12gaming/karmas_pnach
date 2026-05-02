@@ -4,7 +4,7 @@ Karma's collection of .pnach files updated to work with PCSX2 v1.7+ (and v2.0+).
 
 ## How to Download
 
-- Go to the file you want. (Check [.Pnach Files](#pnach-files))
+- Go to the file you want. Check [Patch Files (.pnach)](#patch-files-pnach)
 - Click the `Download Raw File` icon on the right side.
 
 ## How to Install
@@ -27,14 +27,12 @@ Karma's collection of .pnach files updated to work with PCSX2 v1.7+ (and v2.0+).
 - Check `Enable Cheats`
 - Toggle each cheat you want enabled.
 
-## Use At Your Own Risk
-
 > [!WARNING]
-> Activating cheats (patches) can cause unpredictable behavior, crashing,
-soft-locks, or broken saved games. Use cheats at your own risk, the PCSX2
-team will provide no support for users who have enabled cheats.
+> Activating cheats or patches (.pnach) can cause unpredictable behavior,
+crashing, soft-locks, or broken saved games. Use cheats at your own risk,
+the PCSX2 team will provide no support for users who have enabled cheats.
 
-## .Pnach Files
+## Patch Files (.pnach)
 
 | Serial | CRC | Title | Other |
 | :----: | :----: | :---------------------------------- | :---- |
@@ -43,5 +41,5 @@ team will provide no support for users who have enabled cheats.
 
 ### Other
 
-[Disclaimer](/disclaimer.md)  
-[Antipiracy Statement](/disclaimer.md/#antipiracy-statement)
+- [Disclaimer](/disclaimer.md)  
+- [Antipiracy Statement](/disclaimer.md/#antipiracy-statement)

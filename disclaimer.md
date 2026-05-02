@@ -8,6 +8,12 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
+## Use At Your Own Risk
+
+Activating cheats or patches (.pnach) can cause unpredictable behavior,
+crashing, soft-locks, or broken saved games. Use cheats at your own risk,
+the PCSX2 team will provide no support for users who have enabled cheats.
+
 ## Antipiracy Statement
 
 This project does not condone or support piracy in any form. It is our policy
