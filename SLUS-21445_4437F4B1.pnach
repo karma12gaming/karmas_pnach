@@ -1,10 +1,18 @@
 gametitle=Ar tonelico - Melody of Elemia (SLUS-21445) (CRC-4437F4B1)
 comment=Pnach by Karma. Tested with Undub Patch.
 
-// Check Patch Section for Widescreen and No Interlacing
+// Check Patches Section for Widescreen and No Interlacing
 
-[Money\Infinite Money]
+[Max + Infinite Money]
 author= Skiller
-description= Infinite Leaf
+description= 9999999 Leaf
 patch=1,EE,20a9196c,extended,0098967f
 
+[One Harmony Level Up]
+author=
+description= Full Loot From Enemies
+patch=1,EE,202f5b24,extended,08028008
+patch=1,EE,200a0020,extended,3c850000
+patch=1,EE,200a0024,extended,34a50003
+patch=1,EE,200a0028,extended,080bd6ca
+patch=1,EE,200a002c,extended,00000000

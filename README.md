@@ -41,15 +41,7 @@ team will provide no support for users who have enabled cheats.
 | SLUS-21445 | 4437F4B1 | [Ar tonelico - Melody of Elemia](/SLUS-21445_4437F4B1.pnach) | + Undub Patch |
 | SLUS-21788 | C38067F4 | [Ar tonelico II - Melody of Metafalica](/SLUS-21788_C38067F4.pnach) | + Metalbat Undub Patch |
 
-### Disclaimer
+### Other Info
 
-THE FILES ARE PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED
-, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A
-PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT
-HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
-OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
-FILES OR THE USE OR OTHER DEALINGS IN THE FILES.
-
-This project does not condone or support piracy in any form. It is our policy
-to respect intellectual property rights, and we encourage users to purchase
-official copies of games and other content through offical stores.
+- [Disclaimer](/disclaimer.md)
+- [Antipiracy Statement](/disclaimer.md/#antipiracy-statement)
