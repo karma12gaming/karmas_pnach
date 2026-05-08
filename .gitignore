@@ -1,2 +1,4 @@
 .markdownlint.json
-example.txt
+settings.json
+*.txt
+

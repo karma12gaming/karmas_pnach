@@ -1,7 +1,340 @@
 gametitle=Ar tonelico II - Melody of Metafalica (SLUS-21788) (C38067F4)
 comment=Pnach by Karma. Tested with Metalbat Undub Patch.
 
-[Money]
-author= Skiller
-description= Max / Infinite
+[All Items\Max Money]
+author=Skiller 
+description=Max + Infinite Leaf
 patch=1,EE,20A036E0,extended,0098967F
+
+[All Items\Ingredient]
+description=x50 All Ingredients
+author=Skiller
+patch=1,EE,40BE6538,extended,00120001
+patch=1,EE,32323232,extended,00000000
+patch=1,EE,40BE66D0,extended,00120001
+patch=1,EE,07070707,extended,00000000
+
+[All Items\Consumable]
+description=x50 All Consumables
+author=Skiller 
+patch=1,EE,00BE657B,extended,00000032
+patch=1,EE,00BE6713,extended,00000007
+patch=1,EE,40BE657C,extended,00140001
+patch=1,EE,32323232,extended,00000000
+patch=1,EE,40BE6714,extended,00140001
+patch=1,EE,07070707,extended,00000000
+
+[All Items\Equipment]
+description=x50 All Equipment
+author=Skiller 
+patch=1,EE,40BE65CC,extended,00190001
+patch=1,EE,32323232,extended,00000000
+patch=1,EE,40BE6764,extended,00190001
+patch=1,EE,07070707,extended,00000000
+patch=1,EE,10BE6630,extended,00003232
+patch=1,EE,10BE67C8,extended,00000707
+
+[All Items\D-Crystal]
+description=x50 All Dualithnode Crystals
+author=Skiller 
+patch=1,EE,40BE665C,extended,000C0001
+patch=1,EE,32323232,extended,00000000
+patch=1,EE,10BE6690,extended,00003232
+patch=1,EE,10BE665A,extended,00003232
+patch=1,EE,40BE67F4,extended,000C0001
+patch=1,EE,07070707,extended,00000000
+patch=1,EE,10BE6828,extended,00000707
+patch=1,EE,10BE67F2,extended,00000707
+
+[Max EXP\Croix]
+description=Lv.99 Croix
+author=Skiller 
+patch=1,EE,20BE6060,extended,000F423F
+
+[Max EXP\Legius]
+description=Lv.99 Legius
+author=Skiller 
+patch=1,EE,20BE60D8,extended,000F423F
+
+[Max EXP\Amorie]
+description=Lv.99 Amorie
+author=Skiller 
+patch=1,EE,20BE6150,extended,000F423F
+
+[Max EXP\Shun]
+description=Lv.99 Shun
+author=Skiller 
+patch=1,EE,20BE61C8,extended,000F423F
+
+[Max EXP\Cocono]
+description=Lv.99 Cocono
+author=Skiller 
+patch=1,EE,20BE6240,extended,000F423F
+
+[Quick EXP\Croix]
+description=
+author=Lee4 
+patch=1,EE,10BE6060,extended,0000FFFF
+
+[Quick EXP\Legius]
+description=
+author=Lee4 
+patch=1,EE,10BE60D8,extended,0000FFFF
+
+[Quick EXP\Amorie]
+description=
+author=Lee4 
+patch=1,EE,10BE6150,extended,0000FFFF
+
+[Quick EXP\Shun]
+description=
+author=Lee4 
+patch=1,EE,10BE61C8,extended,0000FFFF
+
+[Quick EXP\Cocono]
+description=
+author=Lee4 
+patch=1,EE,10BE6240,extended,0000FFFF
+
+[Battle\Infinite Attack Time]
+description=Hold SELECT to decrease Time Gauge
+author=Skiller 
+patch=1,EE,2022BD34,extended,01c07023
+patch=1,EE,D0A7405C,extended,0000FFFE
+patch=1,EE,2022BD34,extended,01cf7023
+
+[Battle\All Super Moves]
+description=Unlock All Super Moves
+author=vsub
+patch=1,EE,00BE6067,extended,00000001
+patch=1,EE,00BE6069,extended,00000001
+patch=1,EE,00BE606D,extended,00000001
+patch=1,EE,00BE606F,extended,00000001
+patch=1,EE,00BE6073,extended,00000001
+patch=1,EE,00BE6075,extended,00000001
+patch=1,EE,00BE60DF,extended,00000001
+patch=1,EE,00BE60E1,extended,00000001
+patch=1,EE,00BE60E5,extended,00000001
+patch=1,EE,00BE60E7,extended,00000001
+patch=1,EE,00BE60EB,extended,00000001
+patch=1,EE,00BE60ED,extended,00000001
+patch=1,EE,00BE6157,extended,00000001
+patch=1,EE,00BE6159,extended,00000001
+patch=1,EE,00BE615D,extended,00000001
+patch=1,EE,00BE615F,extended,00000001
+patch=1,EE,00BE6163,extended,00000001
+patch=1,EE,00BE6165,extended,00000001
+patch=1,EE,00BE61CD,extended,00000001
+patch=1,EE,00BE61D1,extended,00000001
+patch=1,EE,00BE61D7,extended,00000001
+patch=1,EE,00BE61DD,extended,00000001
+patch=1,EE,00BE6245,extended,00000001
+patch=1,EE,00BE6247,extended,00000001
+patch=1,EE,00BE6249,extended,00000001
+patch=1,EE,00BE624D,extended,00000001
+patch=1,EE,00BE624F,extended,00000001
+patch=1,EE,00BE6253,extended,00000001
+patch=1,EE,00BE6255,extended,00000001
+
+[Songs\All Songs]
+description=All Song Magics Unlocked
+author=Skiller 
+patch=1,EE,40BE6B50,extended,00120001
+patch=1,EE,07070707,extended,00000000
+
+[Dive\Luca Max DP]
+description=99999 Dive Points
+author=Skiller 
+patch=1,EE,20C3A900,extended,0001869F
+
+[Dive\Cloche Max DP]
+description=99999 Dive Points
+author=Skiller 
+patch=1,EE,20C3A904,extended,0001869F
+
+[Dive\Jakuri Max DP]
+description=99999 Dive Points
+author=Skiller 
+patch=1,EE,20C3A908,extended,0001869F
+
+[Dive\Max SP]
+description=99999 Sphere Points
+author=Skiller 
+patch=1,EE,20C3A90C,extended,0001869F
+
+[IPDs\All Fan Club]
+description= All 100 IPDs are in the Fan Club
+author=vsub
+patch=1,EE,40C2C42C,extended,00640005
+patch=1,EE,00000004,extended,00000000
+patch=1,EE,40C2C42E,extended,00640005
+patch=1,EE,000003E7,extended,00000000
+patch=1,EE,40C2C430,extended,00640005
+patch=1,EE,00000064,extended,00000000
+
+[Luca's Costumes\Standard]
+description=Default
+author=Skiller 
+patch=1,EE,00BE5EB8,extended,00000000
+
+[Luca's Costumes\Stylish]
+description=Black Vest
+author=Skiller 
+patch=1,EE,00BE5EB8,extended,00000001
+
+[Luca's Costumes\Heavengazing Empress]
+description=White & Red
+author=Skiller 
+patch=1,EE,00BE5EB8,extended,00000002
+
+[Luca's Costumes\Pretty Cherry]
+description=Pink Hero
+author=Skiller 
+patch=1,EE,00BE5EB8,extended,00000003
+
+[Luca's Costumes\Assault Pain]
+description=Black Leather
+author=Skiller 
+patch=1,EE,00BE5EB8,extended,00000004
+
+[Luca's Costumes\Sorcerer Maria]
+description=Witch Hat
+author=Skiller 
+patch=1,EE,00BE5EB8,extended,00000005
+
+[Luca's Costumes\Venus Trial]
+description=White Mecha
+author=Skiller 
+patch=1,EE,00BE5EB8,extended,00000006
+
+[Luca's Costumes\Bath Girl]
+description=Bath Towel
+author=Skiller 
+patch=1,EE,00BE5EB8,extended,00000007
+
+[Luca's Costumes\Vow]
+description=Wedding Kimono
+author=Skiller 
+patch=1,EE,00BE5EB8,extended,00000008
+
+[Luca's Costumes\Super Tres Bien]
+description=School Uniform
+author=Skiller 
+patch=1,EE,00BE5EB8,extended,00000009
+
+[Cloche's Costumes\Standard]
+description=Default
+author=Skiller 
+patch=1,EE,00BE5EC4,extended,00000000
+
+[Cloche's Costumes\Oldmodern Style]
+description=Pink Yukata Plum Hakama
+author=Skiller 
+patch=1,EE,00BE5EC4,extended,00000001
+
+[Cloche's Costumes\Metamorole Model]
+description=Student President
+author=Skiller 
+patch=1,EE,00BE5EC4,extended,00000002
+
+[Cloche's Costumes\Summer Love]
+description=Summer Purple Yukata
+author=Skiller 
+patch=1,EE,00BE5EC4,extended,00000003
+
+[Cloche's Costumes\Victim Pain]
+description=Mask & Bound
+author=Skiller 
+patch=1,EE,00BE5EC4,extended,00000004
+
+[Cloche's Costumes\Pretty Viole]
+description=Sailor Hero
+author=Skiller 
+patch=1,EE,00BE5EC4,extended,00000005
+
+[Cloche's Costumes\Armageddon]
+description=Demon
+author=Skiller 
+patch=1,EE,00BE5EC4,extended,00000006
+
+[Cloche's Costumes\Fluffuria]
+description=Pink Pajamas
+author=Skiller 
+patch=1,EE,00BE5EC4,extended,00000007
+
+[Cloche's Costumes\Whiteris]
+description=White Princess Dress
+author=Skiller 
+patch=1,EE,00BE5EC4,extended,00000008
+
+[Cloche's Costumes\Pepena]
+description=Penguin
+author=Skiller 
+patch=1,EE,00BE5EC4,extended,00000009
+
+[Jakuri's Costumes\Standard]
+description=Default
+author=Skiller 
+patch=1,EE,00BE5ED0,extended,00000000
+
+[Jakuri's Costumes\Long Uniform]
+description=Sukeban Sailor Skirt
+author=Skiller 
+patch=1,EE,00BE5ED0,extended,00000001
+
+[Jakuri's Costumes\Spirit Gunner]
+description=Maid
+author=Skiller 
+patch=1,EE,00BE5ED0,extended,00000002
+
+[Jakuri's Costumes\Dorky Girl]
+description=Gym Uniform
+author=Skiller 
+patch=1,EE,00BE5ED0,extended,00000003
+
+[Jakuri's Costumes\Southern Cross]
+description=Bikini Swimsuit
+author=Skiller 
+patch=1,EE,00BE5ED0,extended,00000004
+
+[Jakuri's Costumes\Funbun T]
+description=Funbun T Shirt
+author=Skiller 
+patch=1,EE,00BE5ED0,extended,00000005
+
+[Jakuri's Costumes\Lady Drape]
+description=Sleepwear
+author=Skiller 
+patch=1,EE,00BE5ED0,extended,00000006
+
+[Jakuri's Costumes\Miros]
+description=Demon
+author=Skiller 
+patch=1,EE,00BE5ED0,extended,00000007
+
+[Jakuri's Costumes\Pure Ritual]
+description=White Dress
+author=Skiller 
+patch=1,EE,00BE5ED0,extended,00000008
+
+[Jakuri's Costumes\Dark Rose]
+description=Black Wedding Dress
+author=Skiller 
+patch=1,EE,00BE5ED0,extended,00000009
+
+[Encyclopedia\Monster Catalog]
+description=All entries
+author=Skiller 
+patch=1,EE,00BE6A8B,extended,00000007
+patch=1,EE,40BE6A8C,extended,00130001
+patch=1,EE,07070707,extended,00000000
+patch=1,EE,00BE6AD8,extended,00000007
+patch=1,EE,10BE6ADA,extended,00000707
+patch=1,EE,20BE6ADC,extended,07070707
+patch=1,EE,10BE6AE0,extended,00000707
+patch=1,EE,10BE6AE6,extended,00000707
+patch=1,EE,10BE6AFA,extended,00000707
+patch=1,EE,00BE6AFC,extended,00000007
+patch=1,EE,00BE6B0C,extended,00000007
+patch=1,EE,00BE6B0E,extended,00000007
+
